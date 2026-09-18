@@ -7,3 +7,5 @@ A repo for practicing Git and GitHub
 - Git merge
 - Remote repo
 - GitHub
+
+## new changes
