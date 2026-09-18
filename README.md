@@ -11,3 +11,7 @@ A repo for practicing Git and GitHub
 ## new changes
 
 feature readme
+
+## feature more info
+
+PR try
