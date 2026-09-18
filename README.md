@@ -9,3 +9,5 @@ A repo for practicing Git and GitHub
 - GitHub
 
 ## new changes
+
+feature readme
